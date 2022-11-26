@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 git push orgin dev
 server git add git push origin dev
+/user/bin/env
